@@ -21,7 +21,7 @@ body{
 
 form{
     height: 80%;
-    width: 50%;
+    width: 100%;
     background-color: rgba(127, 182, 231, 0.856);
     overflow-y: scroll;
     position: absolute;
@@ -74,7 +74,7 @@ input{
 }
 button{
     margin-top: 50px;
-    width: 70%;
+    width: 50%;
     background-color: rgb(123, 173, 216);
     color: #0d0a24;
     padding: 15px 0;
