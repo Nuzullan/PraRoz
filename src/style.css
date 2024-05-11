@@ -20,7 +20,7 @@ body{
 
 
 form{
-    height: 80%;
+    height: 100%;
     width: 100%;
     background-color: rgba(127, 182, 231, 0.856);
     overflow-y: scroll;
@@ -60,7 +60,7 @@ font-weight: 500;
 input{
     display: block;
     height: 50px;
-    width: 50%;
+    width: 70%;
     background-color:  rgba(174, 213, 247, 0.853);
     border-radius: 5px;
     padding: 0 10px;
@@ -74,7 +74,7 @@ input{
 }
 button{
     margin-top: 50px;
-    width: 50%;
+    width: 70%;
     background-color: rgb(123, 173, 216);
     color: #0d0a24;
     padding: 15px 0;
