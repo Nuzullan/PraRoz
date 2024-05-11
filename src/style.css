@@ -21,7 +21,7 @@ body{
 
 form{
     height: 80%;
-    width: 30%;
+    width: 50%;
     background-color: rgba(127, 182, 231, 0.856);
     overflow-y: scroll;
     position: absolute;
@@ -60,7 +60,7 @@ font-weight: 500;
 input{
     display: block;
     height: 50px;
-    width: 70%;
+    width: 50%;
     background-color:  rgba(174, 213, 247, 0.853);
     border-radius: 5px;
     padding: 0 10px;
@@ -82,6 +82,7 @@ button{
     font-weight: 600;
     border-radius: 5px;
     cursor: pointer;
+    align-content: center;
 }
 
 input[type=radio] {
