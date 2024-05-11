@@ -28,11 +28,7 @@ form{
     transform:translate(-50%,-50%);
     top: 50%;
     left: 50%;
-    border-radius:10px;
-    backdrop-filter: blur(10px);
-    border: 2px solid  rgba(174, 213, 247, 0.851);
-    box-shadow: 0 0 40px rgba(8,7,16,0.6);
-    padding: 50px 35px;
+    border-radius:none;
 
 }
 
